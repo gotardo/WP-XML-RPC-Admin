@@ -24,6 +24,8 @@ This section describes how to install the plugin and get it working.
 
 
 == Changelog ==
+= 0.1.1 =
+* Tested compatibility with WordPress 4.5
 
 = 0.1 =
 * Allows to disable the XML-RPC protocol.
